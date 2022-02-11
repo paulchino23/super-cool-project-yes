@@ -1,0 +1,37 @@
+body{
+    font-family: 'Moon Dance', cursive;
+    background: #747da3;
+}
+
+.header_div{
+    background:#a1f073;
+    color: #ff21b9;
+}
+
+.header_div p{
+    font-family:  'Monoton', cursive; font-family: 'Praise', cursive;
+    color: #4c32db;
+    letter-spacing: 2px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'IM Fell English SC', serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position:fixed ;
+    color:lemonchiffon;
+    bottom:0 ;
+    width: 100%;
+    font-size: 18px;
+    background-color: #61584c;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px #ff9100;
+}
